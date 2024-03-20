@@ -184,7 +184,7 @@ p{
     margin-bottom: 1rem;
 }
 
-@media (max-width: 991px) {
+@media (max-width: 1281px) {
     .res-form {
         visibility: visible;
     }
@@ -224,7 +224,7 @@ i{
     gap: 10px;
 }
 
-@media (max-width: 767px) {
+/* @media (max-width:  991px) {
     .container {
         padding: 0 10px;
     }
@@ -240,9 +240,9 @@ i{
     .completed {
         margin-top: 20px;
     }
-}
+} */
 
-@media (min-width: 768px) {
+/* @media (min-width: 480px) {
     .container {
         display: flex;
         justify-content: center;
@@ -251,4 +251,4 @@ i{
     .card-pd {
         width: 50%;
     }
-}
+} */
