@@ -16,3 +16,21 @@ The To-Do web app allows users to manage their tasks by adding, marking as compl
 - HTML
 - CSS
 - JavaScript
+
+## Usage
+
+- Click on the "Add Task" button to add a new task.
+- Click on the checkbox next to a task to mark it as complete.
+- Click on the "Delete" button next to a task to delete it.
+- Click on the "Music🎵⏩" button to relax after completing the task. 
+
+## Examples
+
+- Add a new task: "Buy groceries"
+- Mark a task as complete: "Finish homework"
+- Delete a task: "Cancel appointment"
+
+
+## Live Show:- https://saurav-to-do-webapp.netlify.app/
+Screenshort:-
+![image](https://github.com/saurav345/To-Do-WebApp/assets/109217236/5f5ba54c-f855-4eba-801c-9f9be09a3d62)
